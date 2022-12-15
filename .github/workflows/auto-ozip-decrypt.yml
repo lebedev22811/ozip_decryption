@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0650_all_3MdwmJbU9cyL.ozip #edit link here...
   FIRMWARE_NAME: RMX2001_11_OTA_0650_all_3MdwmJbU9cyL.ozip  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: THE_NAME_OF_ZIP_YOU_WANT.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: RMX2001_11_OTA_0650_all_3MdwmJbU9cyL.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
